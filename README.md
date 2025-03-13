@@ -1,2 +1,2 @@
 # frostyhill-os
-frostyhill os aka an os im making
+just fucking install the main_floppy.img file install wsl install qemu run qemu-system-i386 -fda path/to/file/main_floppy.img 
